@@ -18,7 +18,7 @@ A simple weather app that displays weather information based on user location or
 1. **Clone repository**
 ```bash
 git clone (https://github.com/rahmatadidi/weather-tracker-web.git)
-cd namarepo
+cd reponame
 Install dependencies
 ```
 2. **Install dependencies**
