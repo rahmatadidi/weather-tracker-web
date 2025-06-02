@@ -24,7 +24,7 @@ Install dependencies
 2. **Install dependencies**
 ```bash
 npm install
-# atau
+# or
 yarn install
 ```
 3. **Setup API Key**
@@ -34,7 +34,7 @@ VITE_WEATHERSTACK_API_KEY=your_api_key_here
 4. **Run Project**
 ```bash
 npm run dev
-# atau
+# or
 yarn dev
 ```
 
