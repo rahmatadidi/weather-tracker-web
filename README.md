@@ -52,7 +52,8 @@ Put it in the .env file as in the example above
 
 ## 📦 Built With
 
-- ![React](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg) React
-- ![Vite](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vite.svg) Vite
-- ![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg) Tailwind CSS
-- ![Weatherstack](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/weatherstack.svg) Weatherstack API
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" alt="React" width="20" height="20" /> React
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vite.svg" alt="Vite" width="20" height="20" /> Vite
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" alt="Tailwind CSS" width="20" height="20" /> Tailwind CSS
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/weatherstack.svg" alt="Weatherstack" width="20" height="20" /> Weatherstack API
+
