@@ -52,8 +52,9 @@ Put it in the .env file as in the example above
 
 ## 📦 Built With
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" alt="React" width="20" height="20" /> React
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vite.svg" alt="Vite" width="20" height="20" /> Vite
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" alt="Tailwind CSS" width="20" height="20" /> Tailwind CSS
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/weatherstack.svg" alt="Weatherstack" width="20" height="20" /> Weatherstack API
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) React
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) Vite
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) Tailwind CSS
+- ![Weatherstack](https://img.shields.io/badge/Weatherstack-ffcc00?style=flat&logo=weatherstack&logoColor=black) Weatherstack API
+
 
